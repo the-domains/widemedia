@@ -1,4 +1,3 @@
-layout_spectrum: 0.6469727943185717
 typography_spectrum: 0.054070957005023956
 color:
   brandStrength: 0.9138702410273254
@@ -11,5 +10,7 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+layout_spectrum: 0.6469727943185717
 name: widemedia
 title: these are websites and logos that we make
+description: 'With over 20 years'' experience, we can also take c'
