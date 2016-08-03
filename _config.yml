@@ -1,0 +1,14 @@
+layout_spectrum: 0.6469727943185717
+typography_spectrum: 0.054070957005023956
+color:
+  brandStrength: 0.9138702410273254
+  lightness: 0.9852328854613006
+  saturation: 0.9391548275016248
+  rhythmicContrast: 0.10857897694222629
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: widemedia
